@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -412,8 +413,9 @@ h6,
   opacity: 0 !important;
 }
 #header1-4 .mbr-section-lead {
-  text-align: right;
-  color: #ffffff;
+  text-align: center;
+  color: #efefef;
+  font-family: 'Montserrat', sans-serif;
 }
 #header1-4 .mbr-section-title {
   color: #ffffff;
