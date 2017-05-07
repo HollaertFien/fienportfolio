@@ -609,9 +609,6 @@ h6,
 #menu-m .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-16 .mbr-section-title {
-  text-align: left;
-}
 
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
