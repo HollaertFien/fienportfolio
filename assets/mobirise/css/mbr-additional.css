@@ -610,6 +610,7 @@ h6,
   color: #c0a375!important;
 }
 
+
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -672,6 +673,9 @@ h6,
   color: #c0a375!important;
 }
 #features3-14 H5 {
+  font-family: 'Montserrat', sans-serif;
+}
+#features3-1y H5 {
   font-family: 'Montserrat', sans-serif;
 }
 #menu-l .hide-buttons .nav-btn {
