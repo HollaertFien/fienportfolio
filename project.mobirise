@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fien Hollaert",
-    "currentPage": "bekijkwerkalgemeen.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "beginpagina",
+        "meta_descr": "Hollaert, Fien, beginpagina",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -191,7 +191,9 @@
     },
     "contact.html": {
       "settings": {
-        "order": 13
+        "order": 13,
+        "meta_descr": "Hollaert, Fien, contacteer, me",
+        "title": "contactpagina"
       },
       "components": [
         {
@@ -326,7 +328,9 @@
     },
     "treinreis.html": {
       "settings": {
-        "order": 8
+        "order": 8,
+        "meta_descr": "Hollaert, Fien, treinreis, heulestraat",
+        "title": "treinkeuze"
       },
       "components": [
         {
@@ -446,7 +450,9 @@
     },
     "bekijkwerklandschap2016.html": {
       "settings": {
-        "order": 4
+        "order": 4,
+        "meta_descr": "Hollaert, Fien, bekijk, werk, landschap, kleuren",
+        "title": "bekijkwerklandschap"
       },
       "components": [
         {
@@ -541,7 +547,9 @@
           "_styles": {
             "H5": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px",
+              "color": "#000000"
             }
           },
           "_anchor": "features3-14",
@@ -580,7 +588,7 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "Olieverf op doek<br>40 x 30 cm<br>2016",
+          "subtitle1": "<span style=\"line-height: 1.7857;\">40 x 30 cm<br></span>Olieverf op doek<br>2016",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -596,7 +604,7 @@
             }
           },
           "title2": "Responsive",
-          "subtitle2": "Olieverf op doek<br>30 x 30 cm<br>2016",
+          "subtitle2": "<span style=\"line-height: 1.7857;\">30 x 30 cm<br></span>Olieverf op doek<br>2016",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -664,7 +672,13 @@
           "_styles": {
             "H5": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "16px",
+              "color": "#000000"
             }
           },
           "_anchor": "features3-1y",
@@ -703,7 +717,7 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "Olieverf op doek<br>47,5 x 33,5 cm<br>2016",
+          "subtitle1": "<span style=\"font-style: normal;\">Olieverf op doek<br>47,5 x 33,5 cm<br>2016</span>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -719,7 +733,7 @@
             }
           },
           "title2": "Responsive",
-          "subtitle2": "Olieverf op doek<br>?<br>2016",
+          "subtitle2": "Olieverf op doek<br>24,5 x 30 cm<span style=\"font-style: normal;\"><br>2016</span>",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -796,8 +810,8 @@
     "bekijkwerkalgemeen.html": {
       "settings": {
         "order": 2,
-        "meta_descr": "",
-        "title": ""
+        "meta_descr": "Hollaert, Fien, maak, je, keuze",
+        "title": "keuzemaken"
       },
       "components": [
         {
@@ -917,7 +931,9 @@
     },
     "Documentatietreinreis.html": {
       "settings": {
-        "order": 10
+        "order": 10,
+        "meta_descr": "Hollaert, Fien, docland, info",
+        "title": "docland"
       },
       "components": [
         {
@@ -1084,7 +1100,9 @@
     },
     "landschappen.html": {
       "settings": {
-        "order": 3
+        "order": 3,
+        "meta_descr": "Hollaert, Fien, landschapkeuze",
+        "title": "landschapkeuze"
       },
       "components": [
         {
@@ -1211,7 +1229,9 @@
     },
     "invasie.html": {
       "settings": {
-        "order": 11
+        "order": 11,
+        "meta_descr": "Hollaert, Fien, invasie, ballon, schapen, kleur",
+        "title": "invasie"
       },
       "components": [
         {
@@ -1331,7 +1351,9 @@
     },
     "bekijkwerkinvasie.html": {
       "settings": {
-        "order": 12
+        "order": 12,
+        "meta_descr": "Hollaert, Fien, schaapballon, kleur, abstract",
+        "title": "schaapballonen"
       },
       "components": [
         {
@@ -1458,7 +1480,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">30 x 30 cm</span><div><span style=\"font-weight: normal;\">Olieverf op doek</span></div>",
+          "title1": "<span style=\"font-weight: normal;\">30 x 30 cm</span><div><span style=\"font-weight: normal;\">Olieverf op doek</span></div><div><span style=\"font-weight: normal;\">2017</span></div>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1474,7 +1496,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<span style=\"font-weight: normal;\">30 x 30 cm<br>Olieverf op doek</span>",
+          "title2": "<span style=\"font-weight: normal;\">30 x 30 cm<br>Olieverf op doek</span><br><span style=\"font-weight: normal;\">2017</span>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1525,7 +1547,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "SPAN": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_tags": [
@@ -1567,7 +1594,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">30 x 30 cm</span><div><span style=\"font-weight: normal;\">Olieverf op doek</span></div>",
+          "title1": "<span style=\"font-weight: normal;\">30 x 30 cm</span><div><span style=\"font-weight: normal;\">Olieverf op doek</span></div><div><span style=\"font-weight: normal;\">2017</span></div>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1583,7 +1610,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<span style=\"font-weight: normal;\">30 x 30 cm</span><div><span style=\"font-weight: normal;\">Olieverf op doek</span></div>",
+          "title2": "<span style=\"font-weight: normal;\">30 x 30 cm</span><div><span style=\"font-weight: normal;\">Olieverf op doek</span></div><div><span style=\"font-weight: normal;\">2017</span></div>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1634,13 +1661,20 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "SPAN": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
     "documentatieweg.html": {
       "settings": {
-        "order": 7
+        "order": 7,
+        "meta_descr": "Hollaert, Fien, verrekijker",
+        "title": "verrekijker"
       },
       "components": [
         {
@@ -1794,8 +1828,8 @@
     },
     "werktrein.html": {
       "settings": {
-        "title": "Web Generator Title",
-        "meta_descr": "Web Generator Description",
+        "title": "heulestraat",
+        "meta_descr": "Hollaert, Fien, heulestraat, schilderij",
         "order": 9
       },
       "components": [
@@ -1923,7 +1957,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">59 x 44 cm<br>Olieverf op doek</span>&nbsp;",
+          "title1": "<span style=\"font-weight: normal;\">59 x 44 cm<br>Olieverf op doek</span>&nbsp;<br><span style=\"font-weight: normal;\">2017</span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1939,7 +1973,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<span style=\"font-weight: normal;\">140 x 76 cm<br>Olieverf op doek</span>",
+          "title2": "<span style=\"font-weight: normal;\">140 x 76 cm<br>Olieverf op doek</span><br><span style=\"font-weight: normal;\">2016</span>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1990,14 +2024,22 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
     "docland.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
+        "title": "landschapfoto",
+        "meta_descr": "Hollaert, Fien, landschapfoto, reizen",
         "order": 6
       },
       "components": [
